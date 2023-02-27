@@ -7,3 +7,6 @@ this file contains the deployment
 
 
 this ia a new line addes
+
+
+new linw addes in deploy.sh
